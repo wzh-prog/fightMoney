@@ -27,9 +27,12 @@ love tt
 
 ## 2025/7/22 Todo:
 - 根据选股策略选股（5个）
-- tuShare下载对应股的日线数据：2020-至今 到本地
-- （明天到这里你就可以打游戏去了）
+- tuShare下载对应股的日线数据：2020-至今 到本地（下的时候可以看一下下载上限，QQ群--P）
+- 网工学习：1.ip子网划分 https://www.bilibili.com/video/BV1Yi42127P8?spm_id_from=333.788.videopod.episodes&vd_source=c079de3edb9d5042414619f053c190cd&p=2
+- （到这里你就可以打游戏去了）
+- 7.23TODO
 - 找一个简单的LSTM之类的模型看看效果
+- 可以研究一下他的或者别人的，看看思路，有没有可以拿来用的Stock:https://github.com/myhhub/stock?tab=readme-ov-file
 
 love cc
 
